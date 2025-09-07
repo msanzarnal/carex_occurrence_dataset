@@ -1,16 +1,15 @@
-# Version History of the Carex Occurrence Dataset
-
+# Version History of the *Carex* occurrence dataset
 This document records all public versions of the dataset along with their respective DOIs, dates, and key updates.
 
-## v1.0.0 (Pending publication)
+## v1.0.0 (Accepted - pending publication)
 DOI: 10.5281/zenodo.14998163  
 - Dataset including quality control and curated manually by experts.
 - Over 384,067 occurrence records and 1,790 species included (see revised_name column)
-- New species recently described from section Fecundae have been included.
+- Newly described species from the sect. Fecundae have been included.
 
 ---
 
-## [Next versions will follow this template:]
+## Next versions will follow this template
 
 ## v1.1.0 (YYYY-MM-DD)
 DOI:
