@@ -3,20 +3,20 @@
 This repository contains the living version of the expert-curated **occurrence** dataset for the genus *Carex* L. (Cyperaceae), supporting the publication:
 > Sanz-Arnal, M.,García-Moro, P., (...), & Jiménez-Mejías, P. (Accepted). A comprehensive database of expert-curated occurrences for the genus Carex L. (Cyperaceae). Global Ecology and Biogeography.
 
-## Citation and Zenodo Archive
-For the full author list and citation, refer to the published article.
+For the full author list and citation, refer to the published article. DOI: xxxxxx
 
-The **official citable version** of the dataset is archived in Zenodo:
+## Dataset availability
+The full version of the dataset, containing all curated occurrence records, is archived and publicly available via Zenodo:
 
 🔗 10.5281/zenodo.14998163
 
-Each major version of the dataset is archived with a unique DOI. The link above always points to the latest public version.
+Please cite the Zenodo DOI when using the complete dataset.
 
-## Contents
-- `data/example_dataset.csv`: A small sample (500 rows) of the full dataset for testing and visualization.
+## Contents of this GitHub repository
+- A lightweight version of the dataset (`data/example_dataset.csv`) for testing and visualization.
+- R scripts to download the complete dataset from Zenodo automatically (see `scripts/download_dataset.R`)
 - `changelog.md`: Readable record of all relevant changes across versions.
 - `VERSIONS.md`: Links and summaries for all dataset versions published in Zenodo.
-- `scripts/`: R scripts for data processing and reproducibility.
 - `shiny_app/`: Shiny app for visualization and download of occurrence records.
 
 ## How to contribute
