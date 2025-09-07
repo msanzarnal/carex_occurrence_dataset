@@ -5,7 +5,6 @@ This document records all public versions of the dataset along with their respec
 DOI: 10.5281/zenodo.14998163  
 - Dataset including quality control and curated manually by experts.
 - Over 384,067 occurrence records and 1,790 species included (see revised_name column)
-- Newly described species from the sect. Fecundae have been included.
 
 ---
 
