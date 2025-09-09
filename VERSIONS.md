@@ -1,6 +1,13 @@
 # Version History of the *Carex* occurrence dataset
 This document records all public versions of the dataset along with their respective DOIs, dates, and key updates.
 
+### Citation Note
+**Important:**  When using this dataset, always cite both:
+1. The associated article (Global Ecology and Biogeography)
+2. The specific Zenodo version used (see below)
+
+Each version is archived with a unique DOI to ensure reproducibility.
+
 ## v1.0.0 (Accepted - pending publication)
 DOI: 10.5281/zenodo.14998163  
 - Dataset including quality control and curated manually by experts.
