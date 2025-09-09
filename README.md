@@ -21,7 +21,6 @@ The full version of the dataset, containing all curated occurrence records, is a
 Please cite the Zenodo DOI when using the complete dataset.
 
 ## Contents of this GitHub repository
-- A lightweight version of the dataset (`data/example_dataset.csv`) for testing and visualization.
 - R scripts to download the complete dataset from Zenodo automatically (see `scripts/download_dataset.R`)
 - `changelog.md`: Readable record of all relevant changes across versions.
 - `VERSIONS.md`: Links and summaries for all dataset versions published in Zenodo.
