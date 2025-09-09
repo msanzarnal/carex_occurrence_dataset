@@ -1,9 +1,17 @@
-# Expert-Curated Dataset for the genus Carex
+# Dataset for the genus *Carex*
 
-This repository contains the living version of the expert-curated **occurrence** dataset for the genus *Carex* L. (Cyperaceae), supporting the publication:
-> Sanz-Arnal, M.,García-Moro, P., (...), & Jiménez-Mejías, P. (Accepted). A comprehensive database of expert-curated occurrences for the genus Carex L. (Cyperaceae). Global Ecology and Biogeography.
+This repository contains the living version of the expert-curated **occurrence** dataset for the genus *Carex* L. (Cyperaceae).
 
-For the full author list and citation, refer to the published article. DOI: xxxxxx
+## How to cite this dataset
+To ensure proper attribution and version tracking, **you must cite both the article and the specific version of the dataset you used**:
+
+1. The associated scientific article:
+> Sanz-Arnal, M.,García-Moro, P., (...), & Jiménez-Mejías, P. (In press). A comprehensive database of expert-curated occurrences for the genus *Carex* L. (Cyperaceae). *Global Ecology and Biogeography*. 10.1111/geb.70123.
+> 
+> For the full author list, please take a look at the published article.
+
+2. The specific Zenodo version used:
+> Sanz-Arnal, M. et al. (2025). *Carex* expert-curated dataset - *version 1.0.0*. [Data set]. Zenodo. 10.5281/zenodo.14998163
 
 ## Dataset availability
 The full version of the dataset, containing all curated occurrence records, is archived and publicly available via Zenodo:
