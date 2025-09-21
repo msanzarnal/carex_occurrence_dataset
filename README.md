@@ -6,7 +6,7 @@ This repository contains the living version of the expert-curated **occurrence**
 To ensure proper attribution and version tracking, **you must cite both the article and the specific version of the dataset you used**:
 
 1. The associated scientific article:
-> Sanz-Arnal, M.,García-Moro, P., (...), & Jiménez-Mejías, P. (In press). A comprehensive database of expert-curated occurrences for the genus *Carex* L. (Cyperaceae). *Global Ecology and Biogeography*. 10.1111/geb.70123.
+> Sanz-Arnal, M., P. García-Moro, C. Benítez-Benítez, et al.  2025. "A Comprehensive Database of Expert-Curated Occurrences for the Genus *Carex* L. (Cyperaceae)." *Global Ecology and Biogeography* e70123. https://doi.org/10.1111/geb.70123.
 > 
 > For the full author list, please take a look at the published article.
 
