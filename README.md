@@ -16,9 +16,8 @@ To ensure proper attribution and version tracking, **you must cite both the arti
 ## Dataset availability
 The full version of the dataset, containing all curated occurrence records, is archived and publicly available via Zenodo:
 
-🔗 10.5281/zenodo.14998163
+🔗 https://doi.org/10.5281/zenodo.14998162
 
-Please cite the Zenodo DOI when using the complete dataset.
 
 ## Contents of this GitHub repository
 - R scripts to download the complete dataset from Zenodo automatically (see `scripts/download_dataset.R`)
