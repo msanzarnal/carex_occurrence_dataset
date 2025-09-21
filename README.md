@@ -11,7 +11,7 @@ To ensure proper attribution and version tracking, **you must cite both the arti
 > For the full author list, please take a look at the published article.
 
 2. The specific Zenodo version used:
-> Sanz-Arnal, M. et al. (2025). *Carex expert-curated dataset: ecd_dataset_v1.0.0* (Version 1.0.0). [Data set]. **Zenodo**. 10.5281/zenodo.14998163
+> Sanz-Arnal, M., et al. (2025). Carex expert-curated dataset: ecd_dataset_v1.0.0 (version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14998163
 
 ## Dataset availability
 The full version of the dataset, containing all curated occurrence records, is archived and publicly available via Zenodo:
