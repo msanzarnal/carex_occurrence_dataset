@@ -14,7 +14,7 @@ To ensure proper attribution and version tracking, **you must cite both the arti
 > Sanz-Arnal, M., et al. (2025). Carex expert-curated dataset: ecd_dataset_v1.0.0 (version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14998163
 
 ## Dataset availability
-The full version of the dataset, containing all curated occurrence records, is archived and publicly available via Zenodo:
+The full version of the dataset, containing all occurrence records, is archived and publicly available via Zenodo:
 
 🔗 https://doi.org/10.5281/zenodo.14998162
 
@@ -23,7 +23,6 @@ The full version of the dataset, containing all curated occurrence records, is a
 - R scripts to download the complete dataset from Zenodo automatically (see `scripts/download_dataset.R`)
 - `changelog.md`: Readable record of all relevant changes across versions.
 - `VERSIONS.md`: Links and summaries for all dataset versions published in Zenodo.
-- `shiny_app/`: Shiny app for visualization and download of occurrence records.
 
 ## How to contribute
 To propose changes to the dataset or structure, please:
