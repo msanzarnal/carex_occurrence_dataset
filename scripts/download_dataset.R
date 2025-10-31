@@ -1,8 +1,6 @@
 # --------------------------------------------------------
 # Script: download_dataset.R
-# Purpose: Download the full version of the Carex occurrence dataset
-#          directly from the Zenodo repository
-# Author: Sanz-Arnal, M. & collaborators
+# Purpose: Download the full version of the Carex occurrence dataset directly from the Zenodo repository
 # License: CC-BY 4.0
 # --------------------------------------------------------
 
@@ -27,4 +25,3 @@ download.file(url = zenodo_url,
               mode = "wb")
 
 message("Download complete: ", output_path)
-
