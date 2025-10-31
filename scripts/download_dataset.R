@@ -10,7 +10,7 @@ if (!requireNamespace("utils", quietly = TRUE)) {
 }
 
 # Define Zenodo direct download URL (you can update this for new versions)
-zenodo_url <- "https://zenodo.org/api/records/14998163/draft/files/ecd_dataset_v1.0.0.csv/content"
+zenodo_url <- "https://zenodo.org/records/14998163/files/ecd_dataset_v1.0.0.csv?download=1"
 
 # Define output path
 output_path <- file.path("data", "carex_occurrences_v1.0.0.csv")
@@ -19,9 +19,9 @@ output_path <- file.path("data", "carex_occurrences_v1.0.0.csv")
 if (!dir.exists("data")) dir.create("data")
 
 # Download the file
-message("Downloading dataset from Zenodo...")
 download.file(url = zenodo_url,
               destfile = output_path,
               mode = "wb")
 
 message("Download complete: ", output_path)
+
