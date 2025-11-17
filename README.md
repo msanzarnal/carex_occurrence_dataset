@@ -27,7 +27,7 @@ The full version of the dataset, containing all occurrence records, is archived 
 ## How to contribute
 To propose changes to the dataset or structure, please:
 1. Open an issue or pull request in this GitHub repository, **or**
-2. Contact the dataset maintainers directly.
+2. Contact the dataset authors directly.
 
 ## License
 This dataset is distributed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
